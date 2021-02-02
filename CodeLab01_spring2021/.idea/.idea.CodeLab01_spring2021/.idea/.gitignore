@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.CodeLab01_spring2021.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\spring2021\codeLab01\week01\CodeLab01_spring2021\.idea\.idea.CodeLab01_spring2021\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
